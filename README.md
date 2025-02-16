@@ -16,9 +16,10 @@ This is a **fully responsive** personal portfolio website built using **HTML, CS
 ## 📸 Screenshots  
 ### 💻 Desktop View  
 ![Desktop Screenshot]( https://github.com/sabbanimanideep/Responsive-Portfolio-/blob/main/desktop%20view.png?raw=true)  
+![Desktop Screenshot]() 
 
 ### 📱 Mobile View  
-![Mobile Screenshot](https://github.com/sabbanimanideep/Responsive-Portfolio-/blob/main/mobile%20view.png?raw=true)  
+![Mobile Screenshot]()  
 
 
 
