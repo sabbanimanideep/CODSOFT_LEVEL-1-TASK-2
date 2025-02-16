@@ -15,15 +15,14 @@ This is a **fully responsive** personal portfolio website built using **HTML, CS
 
 ## 📸 Screenshots  
 ### 💻 Desktop View  
-![Desktop Screenshot](https://via.placeholder.com/1200x600?text=Desktop+View)  
+![Desktop Screenshot]( https://github.com/sabbanimanideep/Responsive-Portfolio-/blob/main/desktop%20view.png?raw=true)  
 
 ### 📱 Mobile View  
-![Mobile Screenshot](https://via.placeholder.com/400x800?text=Mobile+View)  
+![Mobile Screenshot](https://github.com/sabbanimanideep/Responsive-Portfolio-/blob/main/mobile%20view.png?raw=true)  
 
-## 🚀 Live Demo  
-🔗 [View Portfolio](https://yourusername.github.io/portfolio)  
+
 
 ## 📂 Installation  
 1. Clone this repo:  
    ```sh
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/sabbanimanideep/portfolio.git
