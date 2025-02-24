@@ -109,7 +109,7 @@ nav li:first-child{
     font-family: 'Times New Roman', Times, serif;
   }
     .socialmedia{
-      margin: 0px -12px 0px 0px;
+      margin: 0px -12px 0px 70px;
       gap: 0px;
     }
     #icon{
@@ -122,7 +122,6 @@ nav li:first-child{
       transition-duration: 1s;
   }
   .socialmedia i{
-    margin-left: 20px;
     width: 45px;
     height: 45px;
     justify-content: center;
@@ -133,10 +132,30 @@ nav li:first-child{
     color: white;
   }
   .contme{
-    background-color: lightblue;
-    width: 200px;
+    width: 350px;
     height: 50px;
     display: flex;
+    gap: 50px;
+    margin: 20px 0px 0px 40px;
+  }
+  .contme .phone{
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    backdrop-filter:blur(12px) ;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  .phone:hover{
+    cursor: pointer;
+    box-shadow: 0 0 10px aquamarine,0 0 20px aquamarine;
+    transition-duration: 2s;
+  } 
+  .phone a{
+    text-decoration: none;
+    color: black;
   }
   .EDUCATION {
     color: white;
